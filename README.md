@@ -15,4 +15,3 @@ In this project, various methods were used to minimize the RMSE value and to det
 
 ---
 * [Click to access project codes.](https://github.com/TarikKaanKoc/Hitters/blob/main/project.ipynb)
-* [Click here to access the dataset used in the project.](https://www.kaggle.com/datasets/floser/hitters)
